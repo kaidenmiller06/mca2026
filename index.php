@@ -35,18 +35,20 @@
                             <i class="fas fa-home"></i> Home
                         </a>
                     </li>
+
                     <?php if (isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true) { ?>
                     <li class="nav-item">
                         <a class="nav-link" href="settings.php">
                             <i class="fas fa-cog"></i> Settings
                         </a>
                     </li>
+
                     <?php } else { ?>
-                        <li class="nav-item">
-                            <a class="hidden" href="settings.php">
-                                <i class="fas fa-cog hidden"></i> Settings
-                            </a>
-                        </li>
+                    <li class="nav-item">
+                        <a class="hidden" href="settings.php">
+                            <i class="fas fa-cog hidden"></i> Settings
+                        </a>
+                    </li>
                     <?php } ?>
 
                     <li class="nav-item">
@@ -59,6 +61,7 @@
                             <i class="fas fa-gamepad"></i> Games
                         </a>
                     </li>
+
                     <!-- Checking whether to display login or logout button. -->
                     <?php if (isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true) { ?>
                     <li class="nav-item">
@@ -66,6 +69,7 @@
                             <i class="fas fa-key"></i> Logout
                         </a>
                     </li>
+
                     <?php } else { ?>
                     <li class="nav-item">
                         <a class="nav-link" href="login.php">
@@ -82,7 +86,8 @@
         <section id="welcome">
             <div id="welcome-text">Welcome to the Etown Momentum Coding Academy Demo website!</div>
             <br>
-            <div id="welcome-subtext">This website will primarily be used for open houses for parent events to 
+            <div id="welcome-subtext">
+                This website will primarily be used for open houses for parent events to 
                 introduce them to work done by these Etown Dual enrolled
                 college students. 
             </div>
@@ -91,17 +96,12 @@
             <br>
             <div id="welcome-text-2">Click Around</div>
             <br>
-            <div id="welcome-subtext-2">Enjoy checking out what students did this summer.
-            </div>
-            <br>
-             <br><br><br>
+            <div id="welcome-subtext-2">Enjoy checking out what students did this summer.</div>
+            <br><br><br><br>
         </section>
     </main>
 
-        <?php
-        require_once "includes/footer.php";
-        ?>
-    
+    <?php require_once "includes/footer.php"; ?>
 
 </body>
 </html>
