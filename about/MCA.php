@@ -33,6 +33,7 @@
                 <br><a href='arvindpage.php'>Arvind</a>
                 <br><a href='muj.php'>Mujgahn</a>
                 <br><a href='mateo.php'>Mateo</a>
+                <br><a href='chase.php'>Chase</a>
                 <br><a href='Jesse.php'>Jesse</a>
                 <br><a href='wesley.php'>Wesley</a>
                 <br><a href='colin.php'>Colin</a>
