@@ -28,7 +28,6 @@
                 <a href='student_template.php'>Jane Doe</a>
                 <br><a href='ethan.php'>Ethan</a>
                 <br><a href='arvindpage.php'>Arvind</a>
-<<<<<<< HEAD
                 <br><a href='muj.php'>Mujgahn</a>
                 <br><a href='mateo.php'>Mateo</a>
                 <br><a href='Jesse.php'>Jesse</a>
@@ -36,13 +35,8 @@
                 <br><a href='colin.php'>Colin</a>
                 <br><a href='Aidan.php'>Aidan</a>
                 <br><a href='Brennan.php'>Brennan</a>
-<<<<<<< HEAD
-=======
                 <br><a href='dalton.php'>Dalton</a>
->>>>>>> c47df63 (Added Dalton's button)
-=======
                 <br><a href='kyleah.php'>Kyleah</a>
->>>>>>> a708c2d64f838cffee8c54ebc915b6700a6d1a8e
             </span>
         </div>
     </div>
