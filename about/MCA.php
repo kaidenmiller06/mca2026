@@ -81,6 +81,7 @@
 <script src="../main.js"></script>
 <script src="confetti.js"></script>
 <script src = "../includes/footer.php"></script>
-<audio controls width = "1000px">
-  <source src="../AMONG US SUS SOUND EFFECT.mp3" type="audio/mp3">
+
+<audio controls autoplay>
+  <source src="../includes/includesdeezuts/AMONG US SOUND EFFECT.mp3" type="audio/mp3">
 </audio>
