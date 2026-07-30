@@ -15,7 +15,7 @@
             <div class="bio-title">Kaiden Miller</div>
             <br>
             <div id="bio">
-                I HATE CODING!!!!!!!!!!!!!!!!!!
+                Hi I'm Kaiden I love coding!!!!
             </div>
         </section>
     </main>
