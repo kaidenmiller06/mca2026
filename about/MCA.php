@@ -61,4 +61,6 @@
     </div>
 </body>
 
+<script src="../oneko.js"></script>
+
 <?php require "../includes/footer.php"; ?>
