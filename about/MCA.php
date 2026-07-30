@@ -1,9 +1,4 @@
-<?php
-    $pageName = "2026 MCA Webpage";
-    require "../includes/functions.php";
-    require "../includes/head.php";
-    require "../includes/navbar.php";
-?>
+
 
 <head>
 >
@@ -13,12 +8,12 @@
         </div>
 <body>
     <div class="buttons">
-        <a href="../about.php"><button class="button button2">Go Back!</button></a>
+        <a href="../about.php"><button class="button button2">!</button></a>
     </div>
 
     <div class="team-section">
 
-        <div id="welcome-text">THE 2026 MOMENTUM CODING ACADEMY PAGE</div>
+        <div id="welcome-text">THE 1916 MOMENTUM CODING ACADEMY PAGE</div>
         <br>
         <div class="section"> These projects were taken on by the Summer 2026 Coding and Careers class. <BR></div>
         <br>
