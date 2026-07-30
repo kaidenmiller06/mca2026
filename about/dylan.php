@@ -1,5 +1,5 @@
 <?php
-    $pageName = "Aidan's Webpage";
+    $pageName = "Dylan Norris' Webpage";
     require "../includes/functions.php";
     require "../includes/head.php";
     require "../includes/navbar.php";
@@ -11,11 +11,11 @@
     </div>
 
     <main>
-        <section id="Aidan Klein's Bio">
-            <div class="bio-title">Aidan Klein</div>
+        <section id="Jane Doe's Bio">
+            <div class="bio-title">Dylan</div>
             <br>
             <div id="bio">
-                I am Aidan, I will graduate from Lancaster Catholic in 2028, I plan on attending Oulu University in Finland and major in computer science. 
+                hi i am dylan
             </div>
         </section>
     </main>

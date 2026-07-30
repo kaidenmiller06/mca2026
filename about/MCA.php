@@ -21,7 +21,6 @@
         <div id="welcome-text">THE 2026 MOMENTUM CODING ACADEMY PAGE</div>
         <br>
         <div class="section"> These projects were taken on by the Summer 2026 Coding and Careers class. <BR></div>
-        <h3>Whole class mad<h3> 
         <br>
         <div class="pfp">
             <img id="Team2026Pic" src="teampics/dog.jpg" alt="2026 Class picture." width=1000 usemap="#classmap">
@@ -48,7 +47,6 @@
                 <br><a href='Brennan.php'>Brennan</a>
                 <br><a href='dalton.php'>Dalton</a>
                 <br><a href='kyleah.php'>Kyleah</a>
-                <br><a href='emma.php'>Emma</a>
                 <br><a href='jedking.php'>Jed</a>
                 <br><a href='ryan kron.php'>Ryan</a>
                 <br><a href='TomKing.php'>Tom</a>
