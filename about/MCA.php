@@ -42,6 +42,7 @@
                 <br><a href='jed king.php'>Jed</a>
                 <br><a href='ryan kron.php'>Ryan</a>
                 <br><a href='TomKing.php'>Tom</a>
+                <br><a href='quentin.php'>Quentin</a>
             </span>
         </div>
     </div>
