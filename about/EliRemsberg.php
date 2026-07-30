@@ -1,5 +1,5 @@
 <?php
-    $pageName = "Jesse Stauffer's Webpage";
+    $pageName = "Eli Remsberg's Webpage";
     require "../includes/functions.php";
     require "../includes/head.php";
     require "../includes/navbar.php";
@@ -11,11 +11,13 @@
     </div>
 
     <main>
-        <section id="Jane Doe's Bio">
-            <div class="bio-title">Jesse Stauffer</div>
+        <section id="Eli's Bio">
+            <div class="bio-title">JEli Remsberg</div>
             <br>
             <div id="bio">
-                yo yo, what it do stw crew. (ball knowlage required)
+                My names Eli Remsberg I'm from solanco Pa. My github username is TheIceWizird.
+                 
+                Ham
             </div>
         </section>
     </main>

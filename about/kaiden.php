@@ -15,7 +15,7 @@
             <div class="bio-title">Kaiden Miller</div>
             <br>
             <div id="bio">
-                Hi I am Kaiden. I like code. Hello World!
+                Hi I'm Kaiden and I love the source control panel!
             </div>
         </section>
     </main>
