@@ -15,7 +15,7 @@
             <div class="bio-title">Aidan Klein</div>
             <br>
             <div id="bio">
-                I am Aidan, I will graduate from Lanacaster Catholic in 2028, I plan on attending Oulu University in Finland and major in computer science. 
+                I am Aidan, I will graduate from Lancaster Catholic in 2028, I plan on attending Oulu University in Finland and major in computer science. 
             </div>
         </section>
     </main>
