@@ -62,3 +62,4 @@
 <script src="oneko.js"></script>
 <script src="../main.js"></script>
 <script src="confetti.js"></script>
+<script src = "../includes/footer.php"></script>
