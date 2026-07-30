@@ -75,5 +75,6 @@
 
 =======
 <script src="confetti.js"></script>
+<script src="awesome.js"></script>
 
 <?php require "../includes/footer.php"; ?>
