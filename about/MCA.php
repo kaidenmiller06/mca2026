@@ -70,5 +70,6 @@
 </body>
 
 <script src="oneko.js"></script>
+<script src="confetti.js"></script>
 
 <?php require "../includes/footer.php"; ?>

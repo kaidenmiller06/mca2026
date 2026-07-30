@@ -71,7 +71,7 @@
                 <br>
                 <div id="welcome-subtext-2">Our class is comprised of the students in Professor Reddig's CS 102 summer class "Coding and Careers".
                     <br><br>
-                    Want to know more about the 2026 students?  
+                    Want to know more about the 2026 students? (You probably don't...)  
                     <a href="about/MCA.php"> <br> Click Here ...</a>
                 </div>
                 <br>
