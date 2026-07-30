@@ -15,7 +15,7 @@
             <div class="bio-title">Chase Pennell</div>
             <br>
             <div id="bio">
-                I am Chase.
+                Humans know me as Chase but to everyone else I am Megatron
             </div>
         </section>
     </main>
