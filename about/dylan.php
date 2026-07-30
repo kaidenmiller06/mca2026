@@ -1,5 +1,5 @@
 <?php
-    $pageName = "Jane Doe's Webpage";
+    $pageName = "Dylan Norris' Webpage";
     require "../includes/functions.php";
     require "../includes/head.php";
     require "../includes/navbar.php";
