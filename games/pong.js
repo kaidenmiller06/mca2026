@@ -87,7 +87,7 @@ function update() {
                 x = 1000;
                 y = 1000;
                 alert("Game Over.");
-                window.location = "savescore.php?score=" + score;
+                //window.location = "savescore.php?score=" + score;
                 gameOver = true;
             } else {
                 x = 20;
