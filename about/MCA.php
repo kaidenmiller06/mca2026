@@ -33,6 +33,7 @@
                 <br><a href='Jesse.php'>Jesse</a>
                 <br><a href='wesley.php'>Wesley</a>
                 <br><a href='colin.php'>Colin</a>
+                <br><a href='Aidan.php'>Aidan</a>
             </span>
         </div>
     </div>
