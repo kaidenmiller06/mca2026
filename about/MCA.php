@@ -26,8 +26,12 @@
         <div class="section" id="team-names">
             <span class="name">
                 <a href='student_template.php'>Jane Doe</a>
-                <br><a href='wesley.php'>Wesley</a>
                 <br><a href='ethan.php'>Ethan</a>
+                <br><a href='arvindpage.php'>Arvind</a>
+                <br><a href='muj.php'>Mujgahn</a>
+                <br><a href='mateo.php'>Mateo</a>
+                <br><a href='Jesse.php'>Jesse</a>
+                <br><a href='wesley.php'>Wesley</a>
             </span>
         </div>
     </div>
