@@ -19,10 +19,11 @@ function makeEverythingGoCrazy() {
 
         @keyframes crazySpin {
             0% { transform: rotate(0deg) scale(1); }
-            25% { transform: rotate(15deg) scale(1.00); }
+            25% { transform: rotate(5deg) scale(1.00); }
             50% { transform: rotate(0deg) scale(0.95); }
-            75% { transform: rotate(-15deg) scale(1.00); }
-            100% { transform: rotate(360deg) scale(1); }
+            75% { transform: rotate(-5deg) scale(1.00); }
+            100% { transform: rotate(0deg) scale(1); }
+
         }
 
         @keyframes crazyBounce {
@@ -31,7 +32,7 @@ function makeEverythingGoCrazy() {
         }
 
         .party-mode-active {
-            animation: crazyHueRotate 2s infinite linear, crazySpin 4s infinite ease-in-out !important;
+            animation: crazyHueRotate 2s infinite linear, crazySpin 10s infinite ease-in-out !important;
         }
 
         .party-mode-child {
