@@ -70,7 +70,10 @@
 </body>
 
 <script src="oneko.js"></script>
+<<<<<<< HEAD
+<script src="../main.js"></script>
+
+=======
 <script src="confetti.js"></script>
-<script src="awesome.js"></script>
 
 <?php require "../includes/footer.php"; ?>

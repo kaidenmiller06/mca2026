@@ -31,4 +31,6 @@ if(isset($jsFiles) && is_array($jsFiles) && count($jsFiles)>0 ){
 
 ?>
 
+<script src="../main.js"></script>
+
 </head>

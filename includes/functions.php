@@ -11,3 +11,5 @@ function url(){
 }
 
 ?>
+
+<script src="../main.js"></script>
