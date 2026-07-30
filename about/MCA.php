@@ -1,7 +1,7 @@
 
 
 <head>
->
+    <link rel="stylesheet" href="../includes/about.css"> 
 </head>
 <div class="fixed-banner">
           
