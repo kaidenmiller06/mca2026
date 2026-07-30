@@ -15,9 +15,7 @@
             <div class="bio-title">JEli Remsberg</div>
             <br>
             <div id="bio">
-                My names Eli Remsberg I'm from solanco Pa. My github username is TheIceWizird.
-                 
-                Ham
+                My names Eli Remsberg I'm from solanco Pa. My github username is TheIceWizird . Ham
             </div>
         </section>
     </main>

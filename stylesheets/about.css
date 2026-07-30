@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #eb0d0d !important;
+    background-color: #fcfcfc !important;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -25,7 +25,7 @@ main {
 
 .navbar a {
     text-decoration: none;
-    color: #fd0505;
+    color: #f7f5f5;
     margin: 0 10px;
 }
 

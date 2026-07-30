@@ -45,9 +45,7 @@
                 <br><a href='Aidan.php'>Aidan</a>
                 <br><a href='nate.php'>Nate</a>
                 <br><a href='Brennan.php'>Brennan</a>
-<<<<<<< HEAD
                 <br><a href='TomKing.php'>TOM KING</a>
-
                 <br><a href='dalton.php'>Dalton</a>
                 <br><a href='kyleah.php'>Kyleah</a>
                 <br><a href='jedking.php'>Jed</a>
@@ -59,12 +57,11 @@
                 <br><a href='EliRemsberg.php'>Eli</a>
                 <br><a href='emma.php'>Emma</a>
                 <br><a href='km.php'>Kyan</a>
->>>>>>> 75bf367d34ed1fbb49631f57a40c8557d1d3b189
             </span>
         </div>
     </div>
 </body>
 
-<script src="../oneko.js"></script>
+<script src="oneko.js"></script>
 
 <?php require "../includes/footer.php"; ?>
