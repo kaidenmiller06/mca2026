@@ -6,7 +6,8 @@
     $_SESSION['hangman'] = 0;
     $_SESSION['flappy'] = 0;
     $_SESSION['twozerofoureight'] = 0;
-
+    session_abort();
+    exit;
 ?>
 
 <!DOCTYPE html>
