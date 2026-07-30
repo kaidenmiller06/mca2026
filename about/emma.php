@@ -12,7 +12,7 @@
 
     <main>
         <section id="Emma Lang's Bio">
-            <div class="bio-title">Jane Doe</div>
+            <div class="bio-title">Emma Lang</div>
             <br>
             <div id="bio">
                 My name is Emma and I have three younger brothers. I have taken two programming classes with my school, but plan to take Ap Computer Science and two other 
