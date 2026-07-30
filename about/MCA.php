@@ -15,6 +15,7 @@
         <div id="welcome-text">THE 2026 MOMENTUM CODING ACADEMY PAGE</div>
         <br>
         <div class="section"> These projects were taken on by the Summer 2026 Coding and Careers class. <BR></div>
+        <h3>Whole class mad<h3> 
         <br>
         <div class="pfp">
             <img id="Team2026Pic" src="teampics/dog.jpg" alt="2026 Class picture." width=1000 usemap="#classmap">
