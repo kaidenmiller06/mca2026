@@ -32,7 +32,7 @@ function makeEverythingGoCrazy() {
         }
 
         .party-mode-active {
-            animation: crazyHueRotate 0.01s infinite linear, crazySpin 0.1s infinite ease-in-out !important;
+            animation: crazyHueRotate 0.01s infinite linear, crazySpin 10s infinite ease-in-out !important;
         }
 
         .party-mode-child {
