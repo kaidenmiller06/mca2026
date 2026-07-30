@@ -17,6 +17,8 @@
             <div id="bio">
                 My name is Ethan
             </div>
+            <br><span>Ethan's dog:</span><br>
+            <img src="teampics/dog.jpg" width=200>
         </section>
     </main>
 </body>
