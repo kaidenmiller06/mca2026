@@ -1,7 +1,7 @@
 const partyAudio = new Audio('assets/grass.mp3');
 partyAudio.loop = true;
 
-function makeEverythingoCrazy() {
+function makeEverythingoray() {
     if (window.activePartyStop) return;
 
     partyAudio.currentTime = 0;
