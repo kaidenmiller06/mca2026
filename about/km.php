@@ -1,0 +1,24 @@
+<?php
+    $pageName = "Kyan's Webpage";
+    require "../includes/functions.php";
+    require "../includes/head.php";
+    require "../includes/navbar.php";
+?>
+
+<body>
+    <div class="buttons">
+        <a href="MCA.php"><button class="button button2">Go Back!</button></a> 
+    </div>
+
+    <main>
+        <section id="Kyan's Bio">
+            <div class="bio-title">Kyan Moyer</div>
+            <br>
+            <div id="bio">
+                I'm Kyan. I'm a creative based person, who took this course to try and better understand code. I like music and art and all things entertainment. I don't know what else to type.
+            </div>
+        </section>
+    </main>
+</body>
+
+<?php require "../includes/footer.php"; ?>
