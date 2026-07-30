@@ -32,6 +32,7 @@
                 <br><a href='mateo.php'>Mateo</a>
                 <br><a href='Jesse.php'>Jesse</a>
                 <br><a href='wesley.php'>Wesley</a>
+                <br><a href='colin.php'>Colin</a>
             </span>
         </div>
     </div>
