@@ -1,5 +1,5 @@
 <?php
-    $pageName = "Jane Doe's Webpage";
+    $pageName = "Jeddy boy's webp";
     require "../includes/functions.php";
     require "../includes/head.php";
     require "../includes/navbar.php";
@@ -12,7 +12,7 @@
 
     <main>
         <section id="Jed's Bio">
-            <div class="bio-title">Jane Doe</div>
+            <div class="bio-title">Jed King</div>
             <br>
             <div id="bio">
                 I am Jed King
