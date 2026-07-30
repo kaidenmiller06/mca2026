@@ -34,6 +34,7 @@
                 <br><a href='wesley.php'>Wesley</a>
                 <br><a href='colin.php'>Colin</a>
                 <br><a href='Aidan.php'>Aidan</a>
+                <br><a href='Brennan.php'>Brennan</a>
             </span>
         </div>
     </div>
