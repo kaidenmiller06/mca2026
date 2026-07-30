@@ -12,7 +12,7 @@
 
     <main>
         <section id="tom king webpage">
-            <div class="bio-title">Jane Doe</div>
+            <div class="bio-title">Tom King</div>
             <br>
             <div id="bio">
                 I AM TOM KING
