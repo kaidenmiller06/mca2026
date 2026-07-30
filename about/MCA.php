@@ -17,7 +17,7 @@
         <div class="section"> These projects were taken on by the Summer 2026 Coding and Careers class. <BR></div>
         <br>
         <div class="pfp">
-            <img id="Team2026Pic" src="teampics/images.jpg" alt="2026 Class picture." width=1000 usemap="#classmap">
+            <img id="Team2026Pic" src="teampics/dog.jpg" alt="2026 Class picture." width=1000 usemap="#classmap">
             <map id="classmap">
                 <area shape="circle" coords="102, 237, 30" href="student_template.php">
             </map>    
