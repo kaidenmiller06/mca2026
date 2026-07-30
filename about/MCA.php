@@ -82,5 +82,5 @@
 <script src="confetti.js"></script>
 <script src = "../includes/footer.php"></script>
 <audio controls>
-  <source src="AMONG US SUS SOUND EFFECT.mp3" type="audio/mpeg">
+  <source src="../AMONG US SUS SOUND EFFECT.mp3" type="audio/mp3">
 </audio>
