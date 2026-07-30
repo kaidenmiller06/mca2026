@@ -70,9 +70,5 @@
 </body>
 
 <script src="oneko.js"></script>
-<<<<<<< HEAD
 <script src="../main.js"></script>
-
-=======
 <script src="confetti.js"></script>
->>>>>>> 28c04b37c4e6804a7f76d996b0a51a92183b6c4a
