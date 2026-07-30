@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #DAD9D9 !important;
+    background-color: #eb0d0d !important;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -18,21 +18,21 @@ main {
 }
 
 .navbar {
-    background-image: linear-gradient(to right, #fff, #C8C8C8, #3DB5E6, #004B98);
+    background-image: linear-gradient(to right, #0fa5a5, #d809a5, #22ae37, #c4ca1c);
     text-align: center;
     padding: 10px;
 }
 
 .navbar a {
     text-decoration: none;
-    color: #fff;
+    color: #fd0505;
     margin: 0 10px;
 }
 
 #ourVision {
     padding-top: 10px;
     text-align: center;
-    background-color: #64c2e8;
+    background-color: #ff00b3;
 }
 
 .ourVision-textContainer {
