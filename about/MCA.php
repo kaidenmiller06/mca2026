@@ -49,7 +49,8 @@
                 <br><a href='Brennan.php'>Brennan</a>
                 <br><a href='dalton.php'>Dalton</a>
                 <br><a href='kyleah.php'>Kyleah</a>
-                <br><a href='jed king.php'>Jed</a>
+                <br><a href='emma.php'>Emma</a>
+                <br><a href='jedking.php'>Jed</a>
                 <br><a href='ryan kron.php'>Ryan</a>
                 <br><a href='TomKing.php'>Tom</a>
                 <br><a href='piper.php'>Piper</a>
