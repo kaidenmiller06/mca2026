@@ -1,5 +1,5 @@
 <?php
-    $pageName = "Jane Doe's Webpage";
+    $pageName = "Nate's Webpage";
     require "../includes/functions.php";
     require "../includes/head.php";
     require "../includes/navbar.php";
@@ -11,11 +11,11 @@
     </div>
 
     <main>
-        <section id="Jane Doe's Bio">
-            <div class="bio-title">Jane Doe</div>
+        <section id="Nate's Bio">
+            <div class="bio-title">Nate</div>
             <br>
             <div id="bio">
-                Jane Doe is not a student in this class. If she was she might be a junior or senior at Somewhere HS.
+                
             </div>
         </section>
     </main>
