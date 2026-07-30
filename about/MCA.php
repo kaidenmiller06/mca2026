@@ -38,6 +38,7 @@
                 <br><a href='dalton.php'>Dalton</a>
                 <br><a href='kyleah.php'>Kyleah</a>
                 <br><a href='jed king.php'>Jed</a>
+                <br><a href='ryan kron.php'>Ryan</a>
             </span>
         </div>
     </div>
