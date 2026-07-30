@@ -1,4 +1,6 @@
-
+<?php
+exit;
+?>
 
 <head>
     <link rel="stylesheet" href="about.css"></link>
