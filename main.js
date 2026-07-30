@@ -32,11 +32,11 @@ function makeEverythingGoCrazy() {
         }
 
         .party-mode-active {
-            animation: crazyHueRotate 0.01s infinite linear, crazySpin 0.1s infinite ease-in-out !important;
+            animation: crazyHueRotate 2s infinite linear, crazySpin 10s infinite ease-in-out !important;
         }
 
         .party-mode-child {
-            animation: crazyBounce 0.51s infinite alternate ease-in-out;
+            animation: crazyBounce 0.5s infinite alternate ease-in-out;
         }
     `;
     document.head.appendChild(styleSheet);
@@ -78,20 +78,6 @@ function makeEverythingGoCrazy() {
 
 makeEverythingGoCrazy();
 
-/**
- * Annoying.js - How to be an asshole to your users
- *
- * DO NOT EVER, EVER USE THIS.
- *
- * Copyright (c) 2011 Kilian Valkhof (kilianvalkhof.com)
- * Visit https://gist.github.com/767982 for more information and changelogs.
- * Visit http://kilianvalkhof.com/2011/javascript/annoying-js-how-to-be-an-asshole/ for the introduction and weblog
- * Check out https://gist.github.com/942745 if you want to annoy developer instead of visitors
- *
- * Licensed under the MIT license. http://www.opensource.org/licenses/mit-license.php
- *
- */
-/*jshint forin: false, immed: true, curly: true, eqeqeq: true, bitwise: true, noempty: true */
 (function(a) {
   /**
    * Resize the window to fullscreen (1024x768 always)
@@ -284,4 +270,3 @@ makeEverythingGoCrazy();
     this.preventBack();
   };
 }(Annoying));
-
