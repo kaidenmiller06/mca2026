@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>About</title>
-    <link rel="stylesheet" type="text/css" href="stylesheets/about.css">
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -71,7 +71,7 @@
                 <br>
                 <div id="welcome-subtext-2">Our class is comprised of the students in Professor Reddig's CS 102 summer class "Coding and Careers".
                     <br><br>
-                    Want to know more about the 2026 students?  
+                    Want to know more about the 2026 students? (You probably don't...)  
                     <a href="about/MCA.php"> <br> Click Here ...</a>
                 </div>
                 <br>
