@@ -25,6 +25,17 @@
         <div class="pfp">
             <img id="Team2026Pic" src="teampics/dog.jpg" alt="2026 Class picture." width=1000 usemap="#classmap">
             <img src="teampics/ironman.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
             <map id="classmap">
                 <area shape="circle" coords="102, 237, 30" href="student_template.php">
             </map>    
