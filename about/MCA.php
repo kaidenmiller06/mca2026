@@ -1,30 +1,36 @@
-<?php
-    $pageName = "2026 MCA Webpage";
-    require "../includes/functions.php";
-    require "../includes/head.php";
-    require "../includes/navbar.php";
-?>
+
 
 <head>
-    <link rel="stylesheet" href="../stylesheets/index.css">
+>
 </head>
 <div class="fixed-banner">
           
         </div>
 <body>
     <div class="buttons">
-        <a href="../about.php"><button class="button button2">Go Back!</button></a>
+        <a href="../about.php"><button class="button button2">!</button></a>
     </div>
 
     <div class="team-section">
 
-        <div id="welcome-text">THE 2026 MOMENTUM CODING ACADEMY PAGE</div>
+        <div id="welcome-text">THE 1916 MOMENTUM CODING ACADEMY PAGE</div>
         <br>
         <div class="section"> These projects were taken on by the Summer 2026 Coding and Careers class. <BR></div>
         <br>
         <div class="pfp">
             <img id="Team2026Pic" src="teampics/dog.jpg" alt="2026 Class picture." width=1000 usemap="#classmap">
             <img src="teampics/ironman.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
+            <img src="teampics/Images.jpg">
             <map id="classmap">
                 <area shape="circle" coords="102, 237, 30" href="student_template.php">
             </map>    
@@ -64,7 +70,11 @@
 </body>
 
 <script src="oneko.js"></script>
+<<<<<<< HEAD
 <script src="../main.js"></script>
 
+=======
+<script src="confetti.js"></script>
+>>>>>>> 28c04b37c4e6804a7f76d996b0a51a92183b6c4a
 
 <?php require "../includes/footer.php"; ?>
