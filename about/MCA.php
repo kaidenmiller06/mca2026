@@ -44,11 +44,12 @@
                 <br><a href='jed king.php'>Jed</a>
                 <br><a href='ryan kron.php'>Ryan</a>
                 <br><a href='TomKing.php'>Tom</a>
-                <br><a href='piper.php'>piper</a>
+                <br><a href='piper.php'>Piper</a>
                 <br><a href='jaelyn.php'>Jaelyn</a>
                 <br><a href='chase.php'>Chase</a>
                 <br><a href='EliRemsberg.php'>Eli</a>
                 <br><a href='emma.php'>Emma</a>
+                <br><a href='km.php'>Kyan</a>
             </span>
         </div>
     </div>
