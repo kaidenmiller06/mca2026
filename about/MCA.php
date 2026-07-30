@@ -1,7 +1,7 @@
 
 
 <head>
-    <link rel="stylesheet" href="../includes/about.css"></link>
+    <link rel="stylesheet" href="about.css"></link>
 </head>
 <div class="fixed-banner">
           
@@ -35,7 +35,9 @@
                 <a href='student_template.php'>Jane Doe</a>
                 <br><a href='ethan.php'>Ethan</a>
                 <br><a href='arvindpage.php'>Arvind</a>
+                <img src="teampics/Images.png">
                 <br><a href='muj.php'>Mujgahn</a>
+                <img src="teampics/Images.png">
                 <br><a href='mateo.php'>Mateo</a>
                 <br><a href='chase.php'>Chase</a>
                 <br><a href='dylan.php'>Dylan</a>
@@ -57,11 +59,28 @@
                 <br><a href='EliRemsberg.php'>Eli</a>
                 <br><a href='emma.php'>Emma</a>
                 <br><a href='km.php'>Kyan</a>
+                <img src="teampics/Images.png">
             </span>
         </div>
     </div>
 </body>
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+<img src="teampics/Images.png">
+
 <script src="oneko.js"></script>
 <script src="../main.js"></script>
 <script src="confetti.js"></script>
 <script src = "../includes/footer.php"></script>
+<audio controls width = "1000px">
+  <source src="../AMONG US SUS SOUND EFFECT.mp3" type="audio/mp3">
+</audio>
