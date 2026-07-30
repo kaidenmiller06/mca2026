@@ -6,7 +6,7 @@
 ?>
 
 <head>
-    <link rel="stylesheet" href="../stylesheets/index.css">
+>
 </head>
 <div class="fixed-banner">
           
