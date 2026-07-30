@@ -13,23 +13,13 @@
 
     <div class="team-section">
 
-        <div id="welcome-text">THE 1916 MOMENTUM CODING ACADEMY PAGE</div>
+        <div id="welcome-text">THE 2026 MOMENTUM CODING ACADEMY PAGE</div>
         <br>
         <div class="section"> These projects were taken on by the Summer 2026 Coding and Careers class. <BR></div>
         <br>
         <div class="pfp">
             <img id="Team2026Pic" src="teampics/dog.jpg" alt="2026 Class picture." width=1000 usemap="#classmap">
             <img src="teampics/ironman.jpg">
-            <img src="teampics/Images.jpg">
-            <img src="teampics/Images.jpg">
-            <img src="teampics/Images.jpg">
-            <img src="teampics/Images.jpg">
-            <img src="teampics/Images.jpg">
-            <img src="teampics/Images.jpg">
-            <img src="teampics/Images.jpg">
-            <img src="teampics/Images.jpg">
-            <img src="teampics/Images.jpg">
-            <img src="teampics/Images.jpg">
             <img src="teampics/Images.jpg">
             <map id="classmap">
                 <area shape="circle" coords="102, 237, 30" href="student_template.php">
@@ -38,7 +28,7 @@
 
         <div class="section" id="team-names">
             <span class="name">
-            
+                <a href="https://on.soundcloud.com/dDDaTFMID4DaIMX5gI">cool song</a><br>
                 <a href='student_template.php'>Jane Doe</a>
                 <br><a href='ethan.php'>Ethan</a>
                 <br><a href='arvindpage.php'>Arvind</a>
@@ -70,11 +60,5 @@
 </body>
 
 <script src="oneko.js"></script>
-<<<<<<< HEAD
 <script src="../main.js"></script>
-
-=======
 <script src="confetti.js"></script>
-<script src="awesome.js"></script>
-
-<?php require "../includes/footer.php"; ?>
