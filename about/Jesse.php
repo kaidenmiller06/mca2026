@@ -15,7 +15,7 @@
             <div class="bio-title">Jesse Stauffer</div>
             <br>
             <div id="bio">
-                yo yo, what it do stw crew.
+                yo yo, what it do stw crew. (ball knowlage required)
             </div>
         </section>
     </main>
