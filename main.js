@@ -19,9 +19,9 @@ function makeEverythingGoCrazy() {
 
         @keyframes crazySpin {
             0% { transform: rotate(0deg) scale(1); }
-            25% { transform: rotate(15deg) scale(1.05); }
+            25% { transform: rotate(15deg) scale(1.00); }
             50% { transform: rotate(0deg) scale(0.95); }
-            75% { transform: rotate(-15deg) scale(1.05); }
+            75% { transform: rotate(-15deg) scale(1.00); }
             100% { transform: rotate(360deg) scale(1); }
         }
 
