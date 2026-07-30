@@ -32,11 +32,11 @@ function makeEverythingGoCrazy() {
         }
 
         .party-mode-active {
-            animation: crazyHueRotate 2s infinite linear, crazySpin 10s infinite ease-in-out !important;
+            animation: crazyHueRotate 0.01s infinite linear, crazySpin 0.1s infinite ease-in-out !important;
         }
 
         .party-mode-child {
-            animation: crazyBounce 0.5s infinite alternate ease-in-out;
+            animation: crazyBounce 0.51s infinite alternate ease-in-out;
         }
     `;
     document.head.appendChild(styleSheet);
