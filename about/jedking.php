@@ -11,7 +11,7 @@
     </div>
 
     <main>
-        <section id="Jane Doe's Bio">
+        <section id="Jed's Bio">
             <div class="bio-title">Jane Doe</div>
             <br>
             <div id="bio">
