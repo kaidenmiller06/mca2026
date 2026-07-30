@@ -15,8 +15,10 @@
             <div class="bio-title">Dylan</div>
             <br>
             <div id="bio">
-                hi i am dylan
+                i am ^- that guy.<br>
+                please don't mess up my page
             </div>
+
         </section>
     </main>
 </body>
