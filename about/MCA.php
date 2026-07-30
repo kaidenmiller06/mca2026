@@ -37,6 +37,7 @@
                 <br><a href='Brennan.php'>Brennan</a>
                 <br><a href='dalton.php'>Dalton</a>
                 <br><a href='kyleah.php'>Kyleah</a>
+                <br><a href='jed king.php'>Jed</a>
             </span>
         </div>
     </div>
