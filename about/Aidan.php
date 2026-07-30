@@ -1,0 +1,24 @@
+<?php
+    $pageName = "Aidan's Webpage";
+    require "../includes/functions.php";
+    require "../includes/head.php";
+    require "../includes/navbar.php";
+?>
+
+<body>
+    <div class="buttons">
+        <a href="MCA.php"><button class="button button2">Go Back!</button></a> 
+    </div>
+
+    <main>
+        <section id="Aidan Klein's Bio">
+            <div class="bio-title">Aidan Klein</div>
+            <br>
+            <div id="bio">
+                I am Aidan, and I like making games for my friends to play. 
+            </div>
+        </section>
+    </main>
+</body>
+
+<?php require "../includes/footer.php"; ?>

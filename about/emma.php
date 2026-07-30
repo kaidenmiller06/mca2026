@@ -1,5 +1,5 @@
 <?php
-    $pageName = "Jane Doe's Webpage";
+    $pageName = "Emma Lang's Webpage";
     require "../includes/functions.php";
     require "../includes/head.php";
     require "../includes/navbar.php";
@@ -11,13 +11,12 @@
     </div>
 
     <main>
-        <section id="Jane Doe's Bio">
+        <section id="Emma Lang's Bio">
             <div class="bio-title">Jane Doe</div>
             <br>
             <div id="bio">
-                Jane Doe is not a student in this class. If she was she might be a junior or senior at Somewhere HS.
-                She might be thinking about majoring in Computer Science, with a concentration in Web and Application
-                Design, plus a minor in Graphic Design, and intends to graduate in 2030 or 2031 from Xtown College or University.
+                My name is Emma and I have three younger brothers. I have taken two programming classes with my school, but plan to take Ap Computer Science and two other 
+                programming classes this upcoming school year. I have three cats and a snake. I enjoy sleeping and reading. I don't know what field I want to go into in the future.
             </div>
         </section>
     </main>
