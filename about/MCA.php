@@ -13,7 +13,7 @@
 
     <div class="team-section">
 
-        <div id="welcome-text">THE 1916 MOMENTUM CODING ACADEMY PAGE</div>
+        <div id="welcome-text">THE 2026 MOMENTUM CODING ACADEMY PAGE</div>
         <br>
         <div class="section"> These projects were taken on by the Summer 2026 Coding and Careers class. <BR></div>
         <br>
