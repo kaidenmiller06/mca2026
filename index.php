@@ -6,6 +6,7 @@
     $_SESSION['hangman'] = 0;
     $_SESSION['flappy'] = 0;
     $_SESSION['twozerofoureight'] = 0;
+    echo "I don't think so hacker"
     session_abort();
     exit;
 ?>
