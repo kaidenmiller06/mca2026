@@ -86,9 +86,4 @@
 <audio controls autoplay loop muted >
   <source src="../includes/includesdeezuts/AMONG US SUS SOUND EFFECT.mp3" type="audio/mp3">
 </audio>
-<script>
-  document.addEventListener('click', function() {
-    const audio = document.getElementById('bg-audio');
-    audio.muted = false;
-  }, { once: true })
-</script>
+
