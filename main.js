@@ -1,11 +1,8 @@
 const partyAudio = new Audio('assets/grass.mp3');
 partyAudio.loop = true;
 
-<<<<<<< HEAD
 function makeEverythingocray() {
-=======
 function makeEverythingGoCrazy() {
->>>>>>> ea5ea1b5855cd16632a1d22428e5e6fc10951a3a
     if (window.activePartyStop) return;
 
     partyAudio.currentTime = 0;
@@ -36,19 +33,16 @@ function makeEverythingGoCrazy() {
         }
 
         .party-mode-active {
-<<<<<<< HEAD
             animation: crazyHueRotate 2s infinite linear, crazySpin 10s infinite ease-in-out !important;
         }
 
         .party-mode-child {
             animation: crazyBounce 0.5s infinite alternate ease-in-out;
-=======
             animation: crazyHueRotate 0.01s infinite linear, crazySpin 10s infinite ease-in-out !important;
         }
 
         .party-mode-child {
             animation: crazyBounce 0.51s infinite alternate ease-in-out;
->>>>>>> ea5ea1b5855cd16632a1d22428e5e6fc10951a3a
         }
     `;
     document.head.appendChild(styleSheet);
@@ -90,24 +84,20 @@ function makeEverythingGoCrazy() {
 
 makeEverythingGoCrazy();
 
-<<<<<<< HEAD
-=======
-/**
- * Annoying.js - How to be an asshole to your users
- *
- * DO NOT EVER, EVER USE THIS.
- *
- * Copyright (c) 2011 Kilian Valkhof (kilianvalkhof.com)
- * Visit https://gist.github.com/767982 for more information and changelogs.
- * Visit http://kilianvalkhof.com/2011/javascript/annoying-js-how-to-be-an-asshole/ for the introduction and weblog
- * Check out https://gist.github.com/942745 if you want to annoy developer instead of visitors
- *
- * Licensed under the MIT license. http://www.opensource.org/licenses/mit-license.php
- *
- */
-/*jshint forin: false, immed: true, curly: true, eqeqeq: true, bitwise: true, noempty: true */
->>>>>>> ea5ea1b5855cd16632a1d22428e5e6fc10951a3a
-(function(a) {
+
+// Annoying.js - How to be an asshole to your users
+
+//  DO NOT EVER, EVER USE THIS.
+
+//  * Copyright (c) 2011 Kilian Valkhof (kilianvalkhof.com)
+//  Visit https://gist.github.com/767982 for more information and changelogs.
+//  * Visit http://kilianvalkhof.com/2011/javascript/annoying-js-how-to-be-an-asshole/ for the introduction and weblog
+//  * Check out https://gist.github.com/942745 if you want to annoy developer instead of visitors
+//  *
+//  Licensed under the MIT license. http://www.opensource.org/licenses/mit-license.php
+
+// jshint forin: false, immed: true, curly: true, eqeqeq: true, bitwise: true, noempty: true
+// (function(a) {
   /**
    * Resize the window to fullscreen (1024x768 always)
    */
@@ -298,8 +288,5 @@ makeEverythingGoCrazy();
     this.copyToClipboard();
     this.preventBack();
   };
-}(Annoying));
-<<<<<<< HEAD
-=======
+}(Annoying);
 
->>>>>>> ea5ea1b5855cd16632a1d22428e5e6fc10951a3a
